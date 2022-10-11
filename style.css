@@ -8,7 +8,7 @@ ul{list-style: none;}
 body
 {
 background-image: linear-gradient(180deg, #ffffff2a 0%,#020202 70.52%),
-url(assets/fundo.png);
+url(fundo.png);
 background-size: 100%;
 background-repeat: no-repeat;
 
